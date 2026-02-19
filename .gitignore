@@ -141,5 +141,5 @@ vite.config.ts.timestamp-*
 .vite/
 
 #REST Client
-.rest
+*.rest
 /src/generated/prisma
