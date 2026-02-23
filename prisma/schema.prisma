@@ -28,7 +28,7 @@ model OrderItem {
   orderId   Int
   order   Order   @relation(fields: [orderId], references: [id])
   productId   Int
-  productName   String
+  productTitle   String
   productPrice    Float
   productImage    String
   quantity    Int
