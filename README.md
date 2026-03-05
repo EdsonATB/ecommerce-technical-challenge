@@ -42,9 +42,6 @@ Contêm a lógica de negócio da aplicação.
 **Repositories**\
 Responsáveis pelo acesso e manipulação de dados no banco.
 
-**Middlewares**\
-Utilizados para validações e tratamento centralizado de erros.
-
 ------------------------------------------------------------------------
 
 # 📌 Funcionalidades
