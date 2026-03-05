@@ -121,5 +121,5 @@ importantes do desenvolvimento backend, como:
 # 📬 Contato
 
 -   GitHub: https://github.com/EdsonATB
--   LinkedIn: https://www.linkedin.com
+-   LinkedIn: https://www.linkedin.com/in/edson-augusto-999a7a253/
 -   Email: edsonaugusto2006@gmail.com
