@@ -28,19 +28,19 @@ código:
     src
     ├── controllers
     ├── services
-    ├── repositories
     ├── middlewares
     ├── routes
     └── utils
+
+
+**Routes**\
+Responsáveis pelo redirecionamento do request para os controllers.
 
 **Controllers**\
 Responsáveis por receber as requisições HTTP e retornar as respostas.
 
 **Services**\
 Contêm a lógica de negócio da aplicação.
-
-**Repositories**\
-Responsáveis pelo acesso e manipulação de dados no banco.
 
 ------------------------------------------------------------------------
 
