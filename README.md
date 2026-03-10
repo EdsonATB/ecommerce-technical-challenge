@@ -90,7 +90,7 @@ npx prisma migrate dev
 ## 6️⃣ Iniciar aplicação
 
 ``` bash
-npx tsx src/server.ts
+npm run dev
 ```
 
 ------------------------------------------------------------------------
