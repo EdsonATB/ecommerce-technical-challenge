@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 5003
 
-CMD ["node", "./src/server.js"]
+CMD ["npx", "tsx", "./src/server.ts"]
