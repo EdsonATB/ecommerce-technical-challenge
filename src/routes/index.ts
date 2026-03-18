@@ -18,7 +18,7 @@ router.get('/health', (req, res) => {
 router.use('/customers', customerRoutes);
 
 //Product Routes
-router.use('/prodcuts', productRoutes);
+router.use('/products', productRoutes);
 
 //Order Routes
 router.use('/orders', orderRoutes);
